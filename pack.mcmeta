@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": {
+      "min_inclusive": 15,
+      "max_inclusive": 75
+    },
+    "description": "§d💜 create teszt hez pack §7| §a1.20 - 1.21.11"
+  }
+}
